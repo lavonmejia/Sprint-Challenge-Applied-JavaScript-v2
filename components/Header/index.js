@@ -15,7 +15,6 @@ function Header() {
 
     const headerReal = document.createElement('div');
     headerReal.classList.add('header');
-    console.log(headerReal)
 
     const headerDate =  document.createElement('span');
     headerDate.classList.add('date');
